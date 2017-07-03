@@ -1,0 +1,30 @@
+body {
+  padding-top: 50px;
+}
+
+th, td {
+  font-size: 30px;
+}
+
+td a {
+  display: block;
+}
+
+.navigation-bar {
+	height: 75px;
+}
+
+.navbar-brand {
+  float: none;
+  }
+
+.navbar-center
+{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+    text-align: center;
+    margin: auto;
+    height:100%;
+}
